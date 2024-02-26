@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="LoginPage.css">
+  
+</head>
+<body>
+    <h1>
+        It's Quizzy Time!!!
+    </h1>
+    <form id="form" action="/QuizPage.html">
+        <div id="loginbox">
+            <div>
+                <label for ="username">Username:</label>
+                <input id="username" name="username" type="text" placeholder="username" required>
+            </div>
+            <div>
+                <label for="password">Password:</label>
+                <input id="password" name="password" type="password" placeholder="password" required>
+            </div>
+            <div>
+                <span>Invalid ID or password! Please try again </span>
+            </div>
+                <button> Login</button>
+        </div>
+        
+    </form>
+    <script src="LoginPage.js"></script>
+</body>
+</html>

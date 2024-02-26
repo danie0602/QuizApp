@@ -1,0 +1,556 @@
+[
+    {   
+        "id" : "1",
+        "question" :"How do ocean spell in Japanese?",
+        "option" :[
+        "Umi",
+        "Taki",
+        "Mori",
+        "Sora"
+            ],
+           
+            "correctAnswer" : "Umi"  
+    },
+    {   
+        "id" : "2",
+        "question" :"How do you say good morning in Japanese?",
+
+        "option" : [
+        "Konbanwa",
+        "Ohayo",
+        "Oyasumi",
+        "Konnichiwa"
+        ],
+        "correctAnswer": "Ohayo"
+        
+    },
+    {   
+        "id" : "3",
+        "question" :"How to say Family in Japanese?",
+        "option" : [
+        "Tomodachi",
+        "Sensei",
+        "Kazoku",
+        "Keisatsu"
+        ],
+        "correctAnswer": "Kazoku"
+    },
+    {
+        "id" : "4",
+        "question" :"Choose correct sentence",
+        "option" :[
+        "Watashi ni Dan desu",
+        "Hon wo yomimasu",
+        "Gohan kara tabemasu",
+        "Betonamu wo ikimasu"
+        ],
+        "correctAnswer": "Hon wo yomimasu"
+    },
+    {
+        "id" : "5",
+        "question" :"Which prefecture below belongs to Shikoku?",
+        "option":[
+        "Osaka",
+        "Hokkaido",
+        "Yamagata",
+        "Kagawa"
+        ],
+        "correctAnswer": "Kagawa"
+    },
+    {
+        "id" : "6",
+        "question" :"Which food below is Osaka feature cuisine?",
+        "option":[
+        "Takoyaki",
+        "Udon",
+        "Soba",
+        "Tofu"
+        ],
+        "correctAnswer": "Takoyaki"
+    },
+    {
+        "id" : "7",
+        "question" :"Japan is made up of islands. How many islands does Japan have in total?",
+        "option":[
+        "6,852",
+        "380",
+        "6",
+        "14,125"
+        ],
+        "correctAnswer": "14,125"
+    },
+    {
+        "id" : "8",
+        "question" :"What is a traditional Japanese inn called?",
+        "option" :[
+        "Onsen",
+        "Ryokan",
+        "Capsule",
+        "Hanok"
+        ],
+        "correctAnswer": "Ryokan"
+    },
+    {
+        "id" : "9",
+        "question" :"We all know Tokyo is the largest city in terms of population, but where is the second biggest?",
+        "option":[
+        "Kyoto",
+        "Osaka",
+        "Yokohama",
+        "Nagoya"
+        ],
+        "correctAnswer": "Yokohama"
+    },
+    {
+        "id" : "10",
+        "question" :"Japan’s total population is approx. 127 million, but which European country is similar in size according to landmass?",
+        "option":[
+        "France",
+        "Germany",
+        "Spain",
+        "United Kingdom"
+        ],
+        "correctAnswer": "Germany"
+    },
+    {
+        "id" : "11",
+        "question" :"How tall is the iconic Mount Fuji?",
+        "option":[
+        "3,776m",
+        "3,776ft",
+        "2,893m",
+        "2,893ft"
+        ],
+        "correctAnswer": "3,776m"
+    },
+    {
+        "id" : "12",
+        "question" :"Few ‘original’ castles remain from the Edo period of 1603 to 1868. How many still exist today?",
+        "option":[
+        "8",
+        "12",
+        "19",
+        "23"
+        ],
+        "correctAnswer": "12"
+    },
+    {
+        "id" : "13",
+        "question" :"What is the top operational speed of the Shinkansen aka The Bullet train?",
+        "option":[
+        "200kmph",
+        "260kmph",
+        "320kmph",
+        "400kmph"
+        ],
+        "correctAnswer": "320kmph"
+    },
+    {
+        "id" : "14",
+        "question" :"Japan is renowned for its incredible food. Which city is nicknamed the ‘kitchen of Japan’?",
+        "option":[
+        "Osaka",
+        "Kobe",
+        "Fukuoka",
+        "Nagasaki"
+        ],
+        "correctAnswer": "Osaka"
+    },
+    {
+        "id" : "15",
+        "question" :"Which quintessentially Japanese dish actually originates from Portugal?",
+        "option":[
+        "Sushi",
+        "Okonomiyaki",
+        "Ramen",
+        "Tempura"
+        ],
+        "correctAnswer": "Tempura"
+    },
+    {
+        "id" : "16",
+        "question" :"Which sacred animal is known for wandering through Nara Park?",
+        "option" :[
+        "Gazelle",
+        "Deer",
+        "Red Squirrel",
+        "Horse"
+        ],
+        "correctAnswer": "Deer"
+    },
+    {
+        "id" : "17",
+        "question" :"Hokkaido’s red-crowned cranes are iconic. In which part of the island can they be seen all year round?",
+        "option" :[
+        "Shiretoko Penisula",
+        "Kushiro Marshland",
+        "Akan-Nashu National Park",
+        "Nice try! It's not in Hokkaido"
+        ],
+        "correctAnswer": "Kushiro Marshland"
+    },
+    {
+        "id" : "18",
+        "question" :"In which prefecture can you find the hot spring-bathing Japanese macaque aka snow monkey?",
+        "option":[
+        "Ishikawa",
+        "Kagoshima",
+        "Okinawa",
+        "Nagano"
+        ],
+        "correctAnswer": "Nagano"
+    },
+    {
+        "id" : "19",
+        "question" :"In which region would you find the city of Sendai?",
+        "option":[
+        "Honshu",
+        "Chugoku",
+        "Tohoku",
+        "Shikoku"
+        ],
+        "correctAnswer": "Tohoku"
+    },
+    {
+        "id" : "20",
+        "question" :"What does the red circle on the Japanese flag represent?",
+        "option":[
+        "The red Komodo Dragon",
+        "The sun",
+        "The imperial Japanese Army",
+        "The Emperor of Japan"
+        ],
+        "correctAnswer": "The sun"
+    },
+    {
+        "id" : "21",
+        "question" :"Where is the 'Awa Odori' festival held?",
+        "option":[
+        "Yamaguchi",
+        "Tokushima",
+        "Akita",
+        "Aomori"
+        ],
+        "correctAnswer": "Tokushima"
+    },
+    {
+        "id" : "22",
+        "question" :"What is 'Shinto'?",
+        "option" :[
+        "A city",
+        "A type of train",
+        "A religion",
+        "A traditional dish"
+        ],
+        "correctAnswer": "A religion"
+    },
+    {
+        "id" : "23",
+        "question" :"What is the most popular western nickname for Japan?",
+        "option":[
+        "Land of the Rising Sun",
+        "The red dragon",
+        "Down Under",
+        "Land of Fire"
+        ],
+        "correctAnswer": "Land of the Rising Sun"
+    },
+    {
+        "id" : "24",
+        "question" :"In which city can you find Godzilla Road?",
+        "option":[
+        "Nara",
+        "Nagoya",
+        "Osaka",
+        "Tokyo"
+        ],
+        "correctAnswer": "Tokyo"
+    },
+    {
+        "id" : "25",
+        "question" :"How is the culture of cuteness in Japan called?",
+        "option":[
+        "Hawaii",
+        "Kawaii",
+        "Hakaii",
+        "Kahaii"
+        ],
+        "correctAnswer": "Kawaii"
+    },
+    {
+        "id" : "26",
+        "question" :"If you are taking the fastest train from Tokyo to Osaka, how long will it take?",
+        "option":[
+        "2h30",
+        "3h30",
+        "4h30",
+        "5h30"
+        ],
+        "correctAnswer": "2h30"
+    },
+    {
+        "id" : "27",
+        "question" :"Which of the following is NOT a symbol of Shinto, Japan's indigenous religion?",
+        "option":[
+        "Sword",
+        "Mirror",
+        "Jewel",
+        "Vase"
+        ],
+        "correctAnswer": "Vase"
+    },
+    {
+        "id" : "28",
+        "question" :"Which of the following Japanese terms refers to graphic novels or comics made in Japan?",
+        "option":[
+        "Origami",
+        "Anime",
+        "Manga",
+        "Novella"
+        ],
+        "correctAnswer": "Manga"
+    },
+    {
+        "id" : "29",
+        "question" :"Which Japanese wine is traditionally made from fermented rice?",
+        "option":[
+        "Genmaicha",
+        "Sake",
+        "Uroncha",
+        "Aojiru"
+        ],
+        "correctAnswer": "Sake"
+    },
+    {
+        "id" : "30",
+        "question" :"Which of the following is NOT a Japanese dish?",
+        "option":[
+        "Sushi",
+        "Udon",
+        "Kimchi",
+        "Ramen"
+        ],
+        "correctAnswer": "Kimchi"
+    },
+    {
+        "id" : "31",
+        "question" :"Which of these is the national currency of Japan?",
+        "option":[
+        "Yen",
+        "Yuan",
+        "Dollar",
+        "Won"
+        ],
+        "correctAnswer": "Yen"
+    },
+    {
+        "id" : "32",
+        "question" :"Japan is home to how many active volcanoes in total?",
+        "option":[
+        "9",
+        "28",
+        "52",
+        "111"
+        ],
+        "correctAnswer": "111"
+    },
+    {
+        "id" : "33",
+        "question" :"Which flower symbolises the Japanese Imperial family and Emperor?",
+        "option":[
+        "Cherry Blossom",
+        "Chrysanthenum",
+        "Hydrangea",
+        "Wisteria"
+        ],
+        "correctAnswer": "Chrysanthenum"
+    },
+    {
+        "id" : "34",
+        "question" :" The Samurai are remembered for wielding curved swords in battle, but what were they called?",
+        "option":[
+        "Tantou",
+        "Odachi",
+        "Katana",
+        "Wakizashi"
+        ],
+        "correctAnswer": "Katana"
+    },
+    {
+        "id" : "35",
+        "question" :"In Japan, it's customary to do what upon entering somebody's house?",
+        "option":[
+        "Shake the owner's hand",
+        "Remove your shoes",
+        "Bow respectfully",
+        "Light an incense stick"
+        ],
+        "correctAnswer": "Remove your shoes"
+    },
+    {
+        "id" : "36",
+        "question" :"What was Tokyo called during the Edo era?",
+        "option":[
+            "Tokyo-san",
+            "Edo",
+            "Takeshi",
+            "Kabukicho"
+            ],
+            "correctAnswer": "Edo"
+    },
+    {
+        "id" : "37",
+        "question" :"What do waiters say when welcoming guests in restaurants?",
+        "option":[
+            "Arigato",
+            "Irasshaimase",
+            "Sayonara",
+            "Itterasshai"
+            ],
+            "correctAnswer": "Irasshaimase"
+    },
+    {
+        "id" : "38",
+        "question" :"What does Sushi mean?",
+        "option":[
+            "Raw fish",
+            "Sour-tasting rice",
+            "Shark food",
+            "Fresh roll"
+            ],
+            "correctAnswer": "Sour-tasting rice"
+    },
+    {
+        "id" : "39",
+        "question" :"What are the women pearl divers called in Japan?",
+        "option":[
+            "Nando",
+            "Ama",
+            "Eto",
+            "Okama"
+            ],
+            "correctAnswer": "Ama"
+    },
+    {
+        "id" : "40",
+        "question" :"What is the name of the current Emperor of Japan?",
+        "option":[
+            "Naruhito",
+            "Akihito",
+            "Shotoku",
+            "Akiko"
+            ],
+            "correctAnswer": "Naruhito"
+    },
+    {
+        "id" : "41",
+        "question" :"What is the name of the current Prime Minister of Japan?",
+        "option":[
+            "Fumio Kishida",
+            "Shinzo Abe",
+            "Itou Hirobumi",
+            "Suga Yoshihide"
+            ],
+            "correctAnswer": "Fumio Kishida"
+    },
+    {
+        "id" : "42",
+        "question" :"What is Uji city in Kyoto known for?",
+        "option":[
+            "Mochi",
+            "Mizu-mochi",
+            "Matcha",
+            "Senbei"
+            ],
+            "correctAnswer": "Matcha"
+    },
+    {
+        "id" : "43",
+        "question" :"Where is Shirakawago located?",
+        "option":[
+            "Nagano",
+            "Gifu",
+            "Shiga",
+            "Mie"
+            ],
+            "correctAnswer": "Gifu"
+    },
+    {
+        "id" : "44",
+        "question" :"Which era did Oda Nobunaga appear?",
+        "option":[
+            "Azuchi-Momoyama period",
+            "Meiji period",
+            "Edo period",
+            "Muromachi period"
+            ],
+            "correctAnswer": "Azuchi-Momoyama period"
+    },
+    {
+        "id" : "45",
+        "question" :"Which period was Genji monogatari written?",
+        "option":[
+            "Heian period",
+            "Asuka period",
+            "Meiji period",
+            "Showa period"
+            ],
+            "correctAnswer": "Heian period"
+    },
+    {
+        "id" : "46",
+        "question" :"What is Beppu famous for?",
+        "option":[
+            "Onsen",
+            "Ryokan",
+            "Kimono",
+            "Soba"
+            ],
+            "correctAnswer": "Onsen"
+    },
+    {
+        "id" : "47",
+        "question" :"Which are the Japan's three most scenic places?",
+        "option":[
+            "Mount Fuji, Matsushima, Amanohashidate",
+            "Shirakawago, Amanohashidate, Miyajima",
+            "Biwa Lake, Mount Fuji, Miyajima",
+            "Miyajima, Amanohashidate, Matsushima"
+            ],
+            "correctAnswer": "Miyajima, Amanohashidate, Matsushima"
+    },
+    {
+        "id" : "48",
+        "question" :"Which is Japanese traditional theater?",
+        "option":[
+            "Noh",
+            "Wayang",
+            "Kathakali",
+            "Yoruba Theater"
+            ],
+            "correctAnswer": "Noh"
+    }
+    ,
+    {
+        "id" : "49",
+        "question" :"Where is the first capital of Japan?",
+        "option":[
+            "Kyoto",
+            "Nara",
+            "Mie",
+            "Wakayama"
+            ],
+            "correctAnswer": "Nara"
+    },
+    {
+        "id" : "50",
+        "question" :"How do you call anime fan?",
+        "option":[
+            "Otaku",
+            "Neet",
+            "Hikkikomori",
+            "Fujoshi"
+            ],
+            "correctAnswer": "Otaku"
+    }
+]
